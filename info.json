@@ -1,8 +1,8 @@
 {
-  "name": "ChangeMapSettings",
-  "version": "5.0.2",
-  "factorio_version" : "1.1",
-  "title": "Change Map Settings",
+  "name": "ChangeMapSettings_RZ",
+  "version": "1.0.1",
+  "factorio_version" : "2.0",
+  "title": "Change Map Settings_RZ",
   "author": "Bilka",
   "description": "Allows you to change your map and map generation settings at any time you want.",
   "package":
